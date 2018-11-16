@@ -6,7 +6,7 @@ console.log("Welcome Again !");
  
 
 
-          const devs = ['455653515881218048' , '490404894071717930' , '' , ''];
+          const devs = ['455653515881218048' , '365829425368924171' , '' , ''];
           const adminprefix = "!!";
           client.on('message', message => {
               var argresult = message.content.split(` `).slice(1).join(' ');
